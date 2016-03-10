@@ -13,6 +13,6 @@ NOTES:
 
 int sum(int a, int b)
 {
-	/* sum of two numbers*/
+	/* sum */
 	return a+b;
 }
